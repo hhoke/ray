@@ -6,7 +6,7 @@
 .. image:: https://readthedocs.org/projects/ray/badge/?version=latest
     :target: http://ray.readthedocs.io/en/latest/?badge=latest
 
-|
+[](http://academictorrents.com/details/b32305598175bb8e03c5f350e962d772a910641c)
 
 
 **Ray is a fast and simple framework for building and running distributed applications.**
